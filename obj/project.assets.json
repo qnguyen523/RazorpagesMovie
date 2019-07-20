@@ -13283,17 +13283,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Peter/Projects/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectUniqueName": "/Users/Peter/Projects/Net-website/RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "/Users/Peter/Projects/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectPath": "/Users/Peter/Projects/Net-website/RazorPagesMovie.csproj",
       "packagesPath": "/Users/Peter/.nuget/packages/",
-      "outputPath": "/Users/Peter/Projects/RazorPagesMovie/obj/",
+      "outputPath": "/Users/Peter/Projects/Net-website/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Peter/.nuget/NuGet/NuGet.Config"
+        "/Users/Peter/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
