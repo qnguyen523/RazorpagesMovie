@@ -1,18 +1,21 @@
 ﻿<Properties StartupConfiguration="{504DA3B0-7317-43FB-B4C6-21AF43653605}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Movies/Index.cshtml.cs">
     <Files>
-      <File FileName="Pages/Shared/_Layout.cshtml" Line="32" Column="87" />
-      <File FileName="Pages/Index.cshtml" Line="10" Column="27" />
+      <File FileName="Pages/Movies/Index.cshtml" Line="5" Column="32" />
+      <File FileName="Pages/Movies/Index.cshtml.cs" Line="30" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RazorPagesMovie" expanded="True">
             <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Movies" expanded="True" />
+                <Node name="Movies" expanded="True">
+                  <Node name="Index.cshtml.cs" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
-                <Node name="Index.cshtml" selected="True" />
               </Node>
             </Node>
           </Node>

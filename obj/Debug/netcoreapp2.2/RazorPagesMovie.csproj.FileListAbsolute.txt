@@ -40,7 +40,6 @@
 /Users/Peter/Projects/Net-website/bin/Debug/netcoreapp2.2/RazorPagesMovie.pdb
 /Users/Peter/Projects/Net-website/bin/Debug/netcoreapp2.2/RazorPagesMovie.Views.dll
 /Users/Peter/Projects/Net-website/bin/Debug/netcoreapp2.2/RazorPagesMovie.Views.pdb
-/Users/Peter/Projects/Net-website/obj/Debug/netcoreapp2.2/RazorPagesMovie.csprojAssemblyReference.cache
 /Users/Peter/Projects/Net-website/obj/Debug/netcoreapp2.2/RazorPagesMovie.csproj.CoreCompileInputs.cache
 /Users/Peter/Projects/Net-website/obj/Debug/netcoreapp2.2/RazorPagesMovie.RazorAssemblyInfo.cache
 /Users/Peter/Projects/Net-website/obj/Debug/netcoreapp2.2/RazorPagesMovie.RazorAssemblyInfo.cs
